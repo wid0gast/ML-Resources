@@ -73,22 +73,18 @@ learn, in order:
      
   4. Matrix Calculus Refresher (by FastAI founder - Jeremy Howard): https://explained.ai/matrix-calculus/index.html
 
-You can also read Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney, the 
-creator of Pandas himself. This book gives an in-depth introduction to all the libraries that are generally involved in a data 
-science workflow with an assumption that you have basic Python skills. The book is designed in such a way that you can 
-read individual parts of the book without necessarily reading the previous chapters to learn only what you need. Also, 
-chapters for most libraries are split into two - introduction and an in-depth dive. For now, you just need the introduction 
-parts to start doing some ML.
-
+You can also read [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) by Wes McKinney, the creator of Pandas himself. This book gives an in-depth introduction to all the libraries that are generally involved in a data 
+science workflow with an assumption that you have basic Python skills. The book is designed in such a way that you can read individual parts of the book without necessarily reading the previous chapters to learn only what you need. Also, chapters for most libraries are split into two - introduction and an in-depth dive. For now, you just need the introduction parts to start doing some ML.
+
 That's about it! Note that the links I've provided are by no means entirely comprehensive for the respective topics (except 
 the book). They are designed to teach you just enough to get started with data science as quickly as possible without any 
 friction. At the same time they aren't too introductory to leave you filling gaps on the internet. Most people get lost in trying 
 to cover these topics in detail and never end up starting an ML course. Please try and avoid that and learn what you need 
 only when you need it.
-If you spend a few hours every day, you'll be done with all of these in a comfortable 2 weeks (as opposed to doing that 
+  If you spend a few hours every day, you'll be done with all of these in a comfortable 2 weeks (as opposed to doing that 
 random 10 week python course on coursera followed by everything else that you also need to learn)
 
-Choosing the right online courses and identifying the bad ones.
+## Choosing the right online courses and identifying the bad ones.
 
 Before I start recommending online courses for all your specific needs, there are some hard learned observations or truths 
 that I think you should know about before choosing courses. Online courses can roughly be divided into these categories:
