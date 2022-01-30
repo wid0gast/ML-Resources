@@ -92,11 +92,10 @@ that I think you should know about before choosing courses. Online courses can r
  1. Courses that were originally taken in a university or classroom setting and later uploaded online as is (eg: CS229 form Stanford, Princeton's Algorithm's course). These courses are great, but sometimes a little inconvenient to follow along without proper material.
  2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without losing any of the content (popular example: CS50 by Harvard University, Fast.ai). These are by far the best kind of courses, generally.
  3. Courses that were made for an online audience from the start:  
-  a.  Made for specific online audiences with a certain background or motivation: these vary in quality but are generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.  
-  b.  Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now know everything at the end of the course. These courses form the major chunk of online education. Generally 
-      try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
+    1.  Made for specific online audiences with a certain background or motivation: these vary in quality but are generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.  
+    2.  Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now know everything at the end of the course. These courses form the major chunk of online education. Generally try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
   
-The kind of courses you should generally prefer, in order, are: 2 -> 1 -> 3.a -> 3.b
+The kind of courses you should generally prefer, in order, are: 2 -> 1 -> 3.i -> 3.ii
 
 Explanation: In my experience, as far as your ability permits, you should always take more rigorous courses as opposed to 
 the ones you find in category _3.b._ Very frequently, you'll find that a lot of the simplistic online courses leave you with huge 
@@ -119,10 +118,10 @@ But what do I mean by rigour? A rigorous course will have these characteristics:
 3. The assignments and tests will be made to make sure you understand everything. Less work will be already done for you and you will be responsible for most of the code. This is probably the most important part of a good course.
    1. In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
       aspects.  
-   b. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
+   2. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
       generally give you a very good intuition of the theory that might be better than the theory focused courses (ex: 
       FastAI). Depending on your goals, you might actually prefer this.  
-   c. Some courses won't have formal assignments. Instead, the instructor will recommend things you should try out 
+   3. Some courses won't have formal assignments. Instead, the instructor will recommend things you should try out 
       in your free time (like in FastAI). For some people, this can be more rewarding than the alternative. As long as 
       you have the motivation to follow through, this is still fine and probably better than the above points.
 4. They will spend time on foundational topics without rushing to the more advanced stuff.
@@ -144,21 +143,22 @@ follow on the internet.
 There are a lot of online courses on the internet these days, each of which are great in their own way. I'll try and stick to the  
 popular courses because they generally have a community built around them and it's easier to get support when you're 
 stuck. I will also try and not recommend more than one or two items for each category since that tends to confuse 
-beginners.
+beginners.  
 As mentioned before, in almost all cases, you should do an ML (or related) course first before dabbling into anything else. 
 Also, as we talked about in the previous section, depending on your exact aims, you may need to do an entry level course or 
-a more in-depth course. Here are my recommendations:
+a more in-depth course. Here are my recommendations:  
+
 Introductory courses (best for people wanting to jump into deep learning quickly):
- 1. Andrew Ng's classic ML course on Coursera: Although the course is taught in Octave (- MATLAB), it doesn't matter 
+ 1. [Andrew Ng's classic ML course on Coursera](https://www.coursera.org/learn/machine-learning): Although the course is taught in Octave (- MATLAB), it doesn't matter 
    as much because as you'll see, all the ML libraries in Python carry their syntax from MATLAB itself.
- 2. First 2 courses of the deeplearning.ai specialization on coursera.
- Note that I do not recommend doing the deeplearning.ai specialization in it's entirety. It's very introductory in a lot of 
+ 2. First 2 courses of the [deeplearning.ai specialization](https://www.coursera.org/specializations/deep-learning) on coursera.  
+ > Note that I **do not** recommend doing the deeplearning.ai specialization in it's entirety. It's very introductory in a lot of 
  places, and almost everyone I know in college (BITS) who has done the specialization had to do more rigorous courses to 
  actually be able to apply their skills. The specialization is spread out over a few months with not a lot of content or depth 
  to show for it. Please try and avoid it.
 
 In depth ML courses:
- 1. CS229 from Stanford University: lot of focus on the theory and really understanding everything
+ 1. [CS229 from Stanford University](https://cs229.stanford.edu/syllabus-summer2020.html): lot of focus on the theory and really understanding everything
  2. https://mlcourse.ai: heavy focus on implementation without dumbing down on the theory. This will help you actually 
    win those competitions and build great projects
 If you do not want to go into deep learning, then you can stop here after having done one of the previous 2 courses (or 
