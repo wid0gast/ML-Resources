@@ -5,8 +5,8 @@
 ### 1. Python:
 
 ### 2. Numpy:
-    Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-    Comprehensive (Recommended): 
+  Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) \n
+  Comprehensive (Recommended): 
 
 ### 3. Pandas:
 
