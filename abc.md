@@ -49,7 +49,7 @@ Once you're beyond your first hurdle of learning some basic ML (for those wantin
 you try and dig into specific areas of your interest. By this time, you will hopefully have sufficient background to make an 
 educated choice for yourself.
 
-What you do not need to learn, and some prerequisites
+## What you do not need to learn, and some prerequisites
 
 Quite often, people ask me about a host of other topics related to computer science which they feel they might need to 
 learn before getting into AI. I'll try and answer some of the most common doubts people have here:
@@ -69,13 +69,13 @@ learn, in order:
    take a lot of your time and is to the point: https://www.kaggle.com/learn/python
    
   2. Numpy
-     a. Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
-     b. Comprehensive (recommended): [Numpy Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
+     - Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
+     - Comprehensive (recommended): [Numpy Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
      
   3. Pandas, Matplotlib, Seaborn:
    This is a great series of notebooks to get an ML-focused practical introduction to Pandas and data vizualization:
-     a. [Exploratory Data Analysis with Python and Pandas](https://mlcourse.ai/book/topic01/topic01_intro.html)
-     b. [Visual Data Analysis in Python](https://mlcourse.ai/book/topic02/topic02_intro.html)
+     - [Exploratory Data Analysis with Python and Pandas](https://mlcourse.ai/book/topic01/topic01_intro.html)
+     - [Visual Data Analysis in Python](https://mlcourse.ai/book/topic02/topic02_intro.html)
      
   4. Matrix Calculus Refresher (by FastAI founder - Jeremy Howard): https://explained.ai/matrix-calculus/index.html
 
