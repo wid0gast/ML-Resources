@@ -34,16 +34,10 @@ typically, you will start with learning the same basic concepts of traditional m
 across these domains. That is to say, you will pretty much need to start with a course that focuses on ML and not DL 
 regardless of what you want to do and diverge from it later down the line based on your specific interests.
 
-  • If you're aiming to get into CV, NLP or RL, then the best approach is to choose an introductory ML course and 
-    complete it quickly before moving into domain specific courses.
-  • If you aim to get into ML only, then your first ML course should have enough rigor (like [CS229](https://cs229.stanford.edu/syllabus-summer2020.html) from Stanford 
-    University)
-  • Whatever is your first course, you should do it thoroughly and at a comfortable pace. Make sure you understand every
-   little detail that you can. The reasoning is that everything going forward will **_heavily_** draw from these foundational 
-   ideas **_again and again and again_** and you will slow yourself down later if you rushed through these concepts early on.
-  • PLEASE DO YOUR ASSIGNMENTS (no matter how easy). I cannot stress this enough. I frequently come across 
-   people who claim to have completed [CS231n](http://cs231n.stanford.edu/2019/) in a weekend and can't even write a binary classifier or wade through 
-   an elementary Kaggle dataset because they didn't do any assignments.
+   - If you're aiming to get into CV, NLP or RL, then the best approach is to choose an introductory ML course and complete it quickly before moving into domain specific courses.
+   - If you aim to get into ML only, then your first ML course should have enough rigor (like [CS229](https://cs229.stanford.edu/syllabus-summer2020.html) from Stanford University)
+   - Whatever is your first course, you should do it thoroughly and at a comfortable pace. Make sure you understand every little detail that you can. The reasoning is that everything going forward will **_heavily_** draw from these foundational ideas **_again and again and again_** and you will slow yourself down later if you rushed through these concepts early on.
+   - PLEASE DO YOUR ASSIGNMENTS (no matter how easy). I cannot stress this enough. I frequently come across people who claim to have completed [CS231n](http://cs231n.stanford.edu/2019/) in a weekend and can't even write a binary classifier or wade through an elementary Kaggle dataset because they didn't do any assignments.
 
 Once you're beyond your first hurdle of learning some basic ML (for those wanting to get into CV, NLP or RL), that's when 
 you try and dig into specific areas of your interest. By this time, you will hopefully have sufficient background to make an 
