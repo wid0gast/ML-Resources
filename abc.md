@@ -13,11 +13,10 @@ To be more specific, I will try and answer these questions from my own experienc
 
 Since there's a lot of ground to cover in this article, I'll take help of bullet points wherever possible to save everyone's time.
 
-Identifying what you need to learn
+## Identifying what you need to learn
 
-First of all, go read the section "But then, how do I choose what to do ?" of the linked article if you haven't already. We need 
-to have a good starting point before we start this discussion. I'll be assuming you have done so going forward in this article. 
 Typically, most people's interests or end goals would fall into these categories:
+
   1. Computer Vision: generating art, face detection, identifying diseases from medical imagery, measuring crop yields and 
     air pollution from satellite imagery, VR/AR applications, robot vision, etc.
   2. NLP/NLU: Voice assistants (Siri, Alexa, etc.), chatbots, AI models that can write code, etc.
@@ -34,16 +33,16 @@ I won't talk a lot about data analytics a lot because I do not have much experie
 typically, you will start with learning the same basic concepts of traditional machine learning that will be a common theme 
 across these domains. That is to say, you will pretty much need to start with a course that focuses on ML and not DL 
 regardless of what you want to do and diverge from it later down the line based on your specific interests.
+
   • If you're aiming to get into CV, NLP or RL, then the best approach is to choose an introductory ML course and 
     complete it quickly before moving into domain specific courses.
-  • If you aim to get into ML only, then your first ML course should have enough rigor (like CS229 from Stanford 
+  • If you aim to get into ML only, then your first ML course should have enough rigor (like [CS229](https://cs229.stanford.edu/syllabus-summer2020.html) from Stanford 
     University)
-
   • Whatever is your first course, you should do it thoroughly and at a comfortable pace. Make sure you understand every
-   little detail that you can. The reasoning is that everything going forward will heavily draw from these foundational 
-   ideas again and again and again and you will slow yourself down later if you rushed through these concepts early on.
+   little detail that you can. The reasoning is that everything going forward will **_heavily_** draw from these foundational 
+   ideas **_again and again and again_** and you will slow yourself down later if you rushed through these concepts early on.
   • PLEASE DO YOUR ASSIGNMENTS (no matter how easy). I cannot stress this enough. I frequently come across 
-   people who claim to have completed CS231n in a weekend and can't even write a binary classifier or wade through 
+   people who claim to have completed [CS231n](http://cs231n.stanford.edu/2019/) in a weekend and can't even write a binary classifier or wade through 
    an elementary Kaggle dataset because they didn't do any assignments.
 
 Once you're beyond your first hurdle of learning some basic ML (for those wanting to get into CV, NLP or RL), that's when 
@@ -61,22 +60,25 @@ learn before getting into AI. I'll try and answer some of the most common doubts
   5. No, you do not need to be an expert coder like that wizard friend of yours. As you'll see when you start learning, you 
    just need some basic math and a more than average attention span.
   6. No, you do not need a few courses in statistics or advanced linear algebra up your sleeve. 
-You can read a very good blog post on fast.ai that talks about some of these things here
 
 Typically, most courses you'll do will generally cover these prerequisites. But in case they don't, here's what you need to 
 learn, in order:
+
   1. Python. 99% of your time will be spent with this language so you should spend some time learning it. There's a very 
    good course on Kaggle Learn that gets you started with just enough python skills to get you started in AI. It won't 
    take a lot of your time and is to the point: https://www.kaggle.com/learn/python
+   
   2. Numpy
-     a. Introductory: CS231n Numpy Tutorial
-     b. Comprehensive (recommended): Link
+     a. Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
+     b. Comprehensive (recommended): [Numpy Docs](https://numpy.org/doc/stable/user/absolute_beginners.html)
+     
   3. Pandas, Matplotlib, Seaborn:
    This is a great series of notebooks to get an ML-focused practical introduction to Pandas and data vizualization:
-     a. Exploratory data analysis with Pandas
-     b. Visual data analysis in Python
-     c. Seaborn & Plotly (can skip this)
+     a. [Exploratory Data Analysis with Python and Pandas](https://mlcourse.ai/book/topic01/topic01_intro.html)
+     b. [Visual Data Analysis in Python](https://mlcourse.ai/book/topic02/topic02_intro.html)
+     
   4. Matrix Calculus Refresher (by FastAI founder - Jeremy Howard): https://explained.ai/matrix-calculus/index.html
+
 You can also read Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney, the 
 creator of Pandas himself. This book gives an in-depth introduction to all the libraries that are generally involved in a data 
 science workflow with an assumption that you have basic Python skills. The book is designed in such a way that you can 
