@@ -117,7 +117,7 @@ But what do I mean by rigour? A rigorous course will have these characteristics:
 1. A good breadth of content (number of topics) with a good focus on latest developments.
 2. For important parts of the course (foundations, established methods, etc.), there will be no compromise on depth. For relatively niche, unestablished or new topics, they might skimp on the depth, which is fine.
 3. The assignments and tests will be made to make sure you understand everything. Less work will be already done for you and you will be responsible for most of the code. This is probably the most important part of a good course.
-   * In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
+   1. In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
       aspects.  
    b. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
       generally give you a very good intuition of the theory that might be better than the theory focused courses (ex: 
