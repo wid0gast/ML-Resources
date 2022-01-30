@@ -89,20 +89,12 @@ random 10 week python course on coursera followed by everything else that you al
 
 Before I start recommending online courses for all your specific needs, there are some hard learned observations or truths 
 that I think you should know about before choosing courses. Online courses can roughly be divided into these categories:
-1. Courses that were originally taken in a university or classroom setting and later uploaded online as is (eg: CS229 form 
-   Stanford, Princeton's Algorithm's course). These courses are great, but sometimes a little inconvenient to follow along 
-   without proper material.
-2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without 
-   losing any of the content (popular example: CS50 by Harvard University, Fast.ai). These are by far the best kind of 
-   courses, generally.
-3. Courses that were made for an online audience from the start:
-   a. Made for specific online audiences with a certain background or motivation: these vary in quality but are 
-      generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.
-   b. Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give 
-      you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now 
-      know everything at the end of the course. These courses form the major chunk of online education. Generally 
-      try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those 
-      "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
+ 1. Courses that were originally taken in a university or classroom setting and later uploaded online as is (eg: CS229 form Stanford, Princeton's Algorithm's course). These courses are great, but sometimes a little inconvenient to follow along without proper material.
+ 2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without losing any of the content (popular example: CS50 by Harvard University, Fast.ai). These are by far the best kind of courses, generally.
+ 3. Courses that were made for an online audience from the start:
+  a. Made for specific online audiences with a certain background or motivation: these vary in quality but are generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.
+  b. Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now know everything at the end of the course. These courses form the major chunk of online education. Generally 
+      try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
   
 The kind of courses you should generally prefer, in order, are: 2 -> 1 -> 3.a -> 3.b
 Explanation: In my experience, as far as your ability permits, you should always take more rigorous courses as opposed to 
