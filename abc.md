@@ -117,11 +117,11 @@ But what do I mean by rigour? A rigorous course will have these characteristics:
 1. A good breadth of content (number of topics) with a good focus on latest developments.
 2. For important parts of the course (foundations, established methods, etc.), there will be no compromise on depth. For relatively niche, unestablished or new topics, they might skimp on the depth, which is fine.
 3. The assignments and tests will be made to make sure you understand everything. Less work will be already done for you and you will be responsible for most of the code. This is probably the most important part of a good course.
-   a. In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
+   * In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
       aspects.  
    b. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
       generally give you a very good intuition of the theory that might be better than the theory focused courses (ex: 
-      FastAI). Depending on your goals, you might actually prefer this.
+      FastAI). Depending on your goals, you might actually prefer this.  
    c. Some courses won't have formal assignments. Instead, the instructor will recommend things you should try out 
       in your free time (like in FastAI). For some people, this can be more rewarding than the alternative. As long as 
       you have the motivation to follow through, this is still fine and probably better than the above points.
@@ -129,7 +129,8 @@ But what do I mean by rigour? A rigorous course will have these characteristics:
 5. They will have you do very impressive projects that you could even proudly put on your resume.
 6. Almost always, it will be a course that was originally taken offline in a university setting. If not that, it will have a very 
    accomplished instructor.
-A lot of courses on the internet seem to satisfy these requirements. But very often, in the name of breadth, they will teach 
+
+A lot of courses on the internet **_seem_** to satisfy these requirements. But very often, in the name of breadth, they will teach 
 you just one aspect of each topic and quickly move on. They will then claim that they covered dozens of topics when all 
 they did was barely touch the surface. In their seemingly comprehensive assignments, most of the times they will have a 
 major chunk of the work done for you already. Some friends of mine who've done such courses later reported that they're 
@@ -138,7 +139,7 @@ unable to do any projects entirely on their own. You don't want to end up like t
 With all of this out of the way, I believe you now have a good understanding of what to look for in any learning resource you 
 follow on the internet.
 
-Popular courses for different learning pathways
+## Popular courses for different learning pathways
 
 There are a lot of online courses on the internet these days, each of which are great in their own way. I'll try and stick to the  
 popular courses because they generally have a community built around them and it's easier to get support when you're 
