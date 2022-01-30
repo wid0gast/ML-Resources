@@ -3,11 +3,11 @@
 In this article I will be talking about perhaps the most important aspect of getting into AI or Data Science - a framework for 
 deciding how, what and from where to learn your data science concepts.
 To be more specific, I will try and answer these questions from my own experience:
-  • Identifying what you need to learn.
-  • What you do not need to learn and some prerequisites.
-  • Choosing the right online courses and identifying the bad ones.
-  • Links to popular courses for various pathways
-  • Where do books fit in all of this?
+   - Identifying what you need to learn.
+   - What you do not need to learn and some prerequisites.
+   - Choosing the right online courses and identifying the bad ones.
+   - Links to popular courses for various pathways
+   - Where do books fit in all of this?
 
 > My focus will be on online courses. Since offline courses differ wildly in quality between colleges, and a reader still in school may not even have access to those, it doesn't make sense to talk about them in a generalized way.
 
