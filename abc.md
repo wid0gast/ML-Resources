@@ -81,28 +81,30 @@ the book). They are designed to teach you just enough to get started with data s
 friction. At the same time they aren't too introductory to leave you filling gaps on the internet. Most people get lost in trying 
 to cover these topics in detail and never end up starting an ML course. Please try and avoid that and learn what you need 
 only when you need it.
-  If you spend a few hours every day, you'll be done with all of these in a comfortable 2 weeks (as opposed to doing that 
+
+If you spend a few hours every day, you'll be done with all of these in a comfortable 2 weeks (as opposed to doing that 
 random 10 week python course on coursera followed by everything else that you also need to learn)
 
 ## Choosing the right online courses and identifying the bad ones.
 
 Before I start recommending online courses for all your specific needs, there are some hard learned observations or truths 
 that I think you should know about before choosing courses. Online courses can roughly be divided into these categories:
- 1. Courses that were originally taken in a university or classroom setting and later uploaded online as is (eg: CS229 form 
+1. Courses that were originally taken in a university or classroom setting and later uploaded online as is (eg: CS229 form 
    Stanford, Princeton's Algorithm's course). These courses are great, but sometimes a little inconvenient to follow along 
    without proper material.
- 2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without 
+2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without 
    losing any of the content (popular example: CS50 by Harvard University, Fast.ai). These are by far the best kind of 
    courses, generally.
- 3. Courses that were made for an online audience from the start:
-    a. Made for specific online audiences with a certain background or motivation: these vary in quality but are 
+3. Courses that were made for an online audience from the start:
+   a. Made for specific online audiences with a certain background or motivation: these vary in quality but are 
       generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.
-    b. Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give 
+   b. Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give 
       you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now 
       know everything at the end of the course. These courses form the major chunk of online education. Generally 
       try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those 
       "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
-The kind of courses you should generally prefer, in order, are: 2 -. 1 -. 3.a -. 3.b
+  
+The kind of courses you should generally prefer, in order, are: 2 -> 1 -> 3.a -> 3.b
 Explanation: In my experience, as far as your ability permits, you should always take more rigorous courses as opposed to 
 the ones you find in category 3.b. Very frequently, you'll find that a lot of the simplistic online courses leave you with huge 
 gaps in your knowledge (both breadth and depth) and you're always left wanting a bit more. You eventually find yourself 
