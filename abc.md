@@ -159,33 +159,21 @@ Introductory courses (best for people wanting to jump into deep learning quickly
 
 In depth ML courses:
  1. [CS229 from Stanford University](https://cs229.stanford.edu/syllabus-summer2020.html): lot of focus on the theory and really understanding everything
- 2. https://mlcourse.ai: heavy focus on implementation without dumbing down on the theory. This will help you actually 
-   win those competitions and build great projects
+ 2. https://mlcourse.ai: heavy focus on implementation without dumbing down on the theory. This will help you actually win those competitions and build great projects
+
 If you do not want to go into deep learning, then you can stop here after having done one of the previous 2 courses (or 
 both) and start making great projects, participating in competitions, etc.
 
 After this, for people wanting to enter deep learning but aren't sure exactly what subdomain they want to focus in:
-
- 1. MIT's Intro to deep learning: this course moves very fast, has a great breadth of content, amazing projects, and has 
+
+ 1. [MIT's Intro to deep learning](http://introtodeeplearning.com/): this course moves very fast, has a great breadth of content, amazing projects, and has 
    good focus on the theory. If you want a quick (and yet comprehensive) introduction to deep learning to figure out 
    whether it's the right thing for you, then go for it. You do not specifically need to do ML basics courses before this 
    course as they try and cover those parts where needed.
- 2. fast.ai: The latest version of this course now covers theory in depth, has you make the best projects and take them to 
-   an actual, minimal web app, and has by far the best community forums on the internet. FastAI alumni regularly win 
-   Kaggle competitions, publish papers, get hired at top tech companies and research labs, and break state of the art 
-   records. The course also has the best instructions for all kinds of setting up you will need to get into deep learning, 
-   and the forums are filled with answers to every doubt you'll ever have. Again, they also cover the ML in sufficient 
-   depth so you do not need to do and previous courses before starting this one (except learning Python). The only 
-   caveat is that this course needs more motivation from your side. The amount of content covered is a lot and there's a 
-   lot of code to go through. There's also a lot of abstraction in the fastai library (which some people find uncomfortable), 
-   but it doesn't matter as long as you know what's going on without having written the code for it. If you prefer books, 
-   you can read the recently released Fastbook (freely available on GitHub) which has the same content as the video 
-   course. If you were to take just one advice from this whole article, I'd say you should do this course. Things covered in 
-   this course: Neural networks, computer vision, NLP, ML, tricks to get the best results like data augmentation, learning 
-   rate scheduling, progressive resizing, presizing, writing your own optimizers, looking inside deep models, and so much 
-   more.
+ 2. [fast.ai](https://course19.fast.ai/index.html): The latest version of this course now covers theory in depth, has you make the best projects and take them to an actual, minimal web app, and has by far the best community forums on the internet. FastAI alumni regularly win Kaggle competitions, publish papers, get hired at top tech companies and research labs, and break state of the art records. The course also has the best instructions for all kinds of setting up you will need to get into deep learning, and the forums are filled with answers to every doubt you'll ever have. Again, they also cover the ML in sufficient depth so you do not need to do and previous courses before starting this one (except learning Python). The only caveat is that this course needs more motivation from your side. The amount of content covered is a lot and there's a lot of code to go through. There's also a lot of abstraction in the fastai library (which some people find uncomfortable), but it doesn't matter as long as you know what's going on without having written the code for it. If you prefer books, you can read the recently released [Fastbook](https://github.com/fastai/fastbook) (freely available on GitHub) which has the same content as the video course. If you were to take just one advice from this whole article, I'd say you should do this course. Things covered in this course: Neural networks, computer vision, NLP, ML, tricks to get the best results like data augmentation, learning rate scheduling, progressive resizing, presizing, writing your own optimizers, looking inside deep models, and so much more.
 
-For people wanting to enter Computer Vision:
+### For people wanting to enter Computer Vision:
+
  1. The Ancient 5ecrets of Computer Vision: This is the most well-rounded computer vision course I know of as it not only 
    teaches you the deep learning side of CV but older methods like 5IFT and optical flow as well. The instructor is the 
    creator of the popular object detection framework called YOLO. He recently left computer vision research after 
