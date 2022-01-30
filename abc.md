@@ -93,44 +93,41 @@ that I think you should know about before choosing courses. Online courses can r
  2. Courses that were originally taken in a university or classroom setting and later adapted for online audiences without losing any of the content (popular example: CS50 by Harvard University, Fast.ai). These are by far the best kind of courses, generally.
  3. Courses that were made for an online audience from the start:  
   a.  Made for specific online audiences with a certain background or motivation: these vary in quality but are generally good. Some good examples are: Algorithmic Toolbox, Machine Learning, courses on Udacity, etc.  
-  
   b.  Made to be accessible for everyone on the internet: these are the most basic, introductory courses that give you a false sense of satisfaction by reiterating over and over again that you're doing great and say that you now know everything at the end of the course. These courses form the major chunk of online education. Generally 
       try and avoid these if you can if you're looking to build deep expertise in a subject. Examples of these are those "Introduction to XYZ" courses that you find all over Coursera and Udemy, and sometimes on edX.
   
 The kind of courses you should generally prefer, in order, are: 2 -> 1 -> 3.a -> 3.b
+
 Explanation: In my experience, as far as your ability permits, you should always take more rigorous courses as opposed to 
-the ones you find in category 3.b. Very frequently, you'll find that a lot of the simplistic online courses leave you with huge 
+the ones you find in category _3.b._ Very frequently, you'll find that a lot of the simplistic online courses leave you with huge 
 gaps in your knowledge (both breadth and depth) and you're always left wanting a bit more. You eventually find yourself 
-spend a lot more time wading through the internet (blogs, other more rigorous courses, etc.) to fill in those gaps. This 
+spend _a lot more time_ wading through the internet (blogs, other more rigorous courses, etc.) to fill in those gaps. This 
 realization generally sets in when you start working on some project and realize that you don't have any practical skills yet.
 
 So rather, it's best to simply take rigorous, and possibly longer courses in the first place. You'll need to (and should) spend 
 significant time with the first 2-3 of these courses to get your foundations right after which you'll never have to take an 
-online course again. You will simply be able to read research papers and documentation to quickly gather new skills exactly 
-when you need them without needing to spend a few weeks on another course. This last bit is what you should aim for. 
+online course again. _You will simply be able to read research papers and documentation to quickly gather new skills exactly 
+when you need them without needing to spend a few weeks on another course._ **This last bit is what you should aim for.** 
 This is way more important than what you'll realize when your'e starting out. Things move fast in the data world, books get 
 outdated in a few months, and online courses are simply not built to keep up with that. So you'll need to be able to read 
 papers and documentation (both of which are to the point, and the fastest, most accurate way to learn new things) to 
 gather new skills.
 
 But what do I mean by rigour? A rigorous course will have these characteristics:
- 1. A good breadth of content (number of topics) with a good focus on latest developments.
- 2. For important parts of the course (foundations, established methods, etc.), there will be no compromise on depth. For 
-   relatively niche, unestablished or new topics, they might skimp on the depth, which is fine.
- 3. The assignments and tests will be made to make sure you understand everything. Less work will be already done for 
-   you and you will be responsible for most of the code. This is probably the most important part of a good course.
-
-    a. In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
-      aspects.
-    b. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
+1. A good breadth of content (number of topics) with a good focus on latest developments.
+2. For important parts of the course (foundations, established methods, etc.), there will be no compromise on depth. For relatively niche, unestablished or new topics, they might skimp on the depth, which is fine.
+3. The assignments and tests will be made to make sure you understand everything. Less work will be already done for you and you will be responsible for most of the code. This is probably the most important part of a good course.
+   a. In the best courses, the evaluation will not only test your theoretical understanding, but also the implementation 
+      aspects.  
+   b. In some courses, there will be a heavy focus on implementation (code) and less on the theory. Such courses will 
       generally give you a very good intuition of the theory that might be better than the theory focused courses (ex: 
       FastAI). Depending on your goals, you might actually prefer this.
-    c. Some courses won't have formal assignments. Instead, the instructor will recommend things you should try out 
+   c. Some courses won't have formal assignments. Instead, the instructor will recommend things you should try out 
       in your free time (like in FastAI). For some people, this can be more rewarding than the alternative. As long as 
       you have the motivation to follow through, this is still fine and probably better than the above points.
- 4. They will spend time on foundational topics without rushing to the more advanced stuff.
- 5. They will have you do very impressive projects that you could even proudly put on your resume.
- 6. Almost always, it will be a course that was originally taken offline in a university setting. If not that, it will have a very 
+4. They will spend time on foundational topics without rushing to the more advanced stuff.
+5. They will have you do very impressive projects that you could even proudly put on your resume.
+6. Almost always, it will be a course that was originally taken offline in a university setting. If not that, it will have a very 
    accomplished instructor.
 A lot of courses on the internet seem to satisfy these requirements. But very often, in the name of breadth, they will teach 
 you just one aspect of each topic and quickly move on. They will then claim that they covered dozens of topics when all 
