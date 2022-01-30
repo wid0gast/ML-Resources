@@ -172,7 +172,7 @@ After this, for people wanting to enter deep learning but aren't sure exactly wh
    course as they try and cover those parts where needed.
  2. [fast.ai](https://course19.fast.ai/index.html): The latest version of this course now covers theory in depth, has you make the best projects and take them to an actual, minimal web app, and has by far the best community forums on the internet. FastAI alumni regularly win Kaggle competitions, publish papers, get hired at top tech companies and research labs, and break state of the art records. The course also has the best instructions for all kinds of setting up you will need to get into deep learning, and the forums are filled with answers to every doubt you'll ever have. Again, they also cover the ML in sufficient depth so you do not need to do and previous courses before starting this one (except learning Python). The only caveat is that this course needs more motivation from your side. The amount of content covered is a lot and there's a lot of code to go through. There's also a lot of abstraction in the fastai library (which some people find uncomfortable), but it doesn't matter as long as you know what's going on without having written the code for it. If you prefer books, you can read the recently released [Fastbook](https://github.com/fastai/fastbook) (freely available on GitHub) which has the same content as the video course. If you were to take just one advice from this whole article, I'd say you should do this course. Things covered in this course: Neural networks, computer vision, NLP, ML, tricks to get the best results like data augmentation, learning rate scheduling, progressive resizing, presizing, writing your own optimizers, looking inside deep models, and so much more.
 
-### For people wanting to enter Computer Vision:
+#### For people wanting to enter Computer Vision:
 
  1. The Ancient 5ecrets of Computer Vision: This is the most well-rounded computer vision course I know of as it not only 
    teaches you the deep learning side of CV but older methods like 5IFT and optical flow as well. The instructor is the 
@@ -187,7 +187,8 @@ After this, for people wanting to enter deep learning but aren't sure exactly wh
  4. Notable mentions: The MIT and especially the FastAI course mentioned above also have a significant focus on 
    computer vision along with other things. Also, they have much better projects for you to showcase.
 
-For people wanting to enter NLP/NLU:
+#### For people wanting to enter NLP/NLU:
+
  1. C5224n (latest lectures): this course from 5tanford university has been a popular choice for people wanting to enter 
    NLP. The currently online available online version of the course was last updated in Winter 2019. There is a very good 
    focus on the theory and all the assignments are challenging enough just like in C5231n.
@@ -196,19 +197,20 @@ For people wanting to enter NLP/NLU:
    content, great projects from the first lecture, and a focus on getting the state of the art results with the latest 
    techniques. Unlike other fast.ai courses though, this course covers a lot more theory.
 
-For people wanting to enter data analytics:
+#### For people wanting to enter data analytics:
+
 This is where you take huge troves of data and use statistical techniques to derive useful insights from the data. For 
 instance, you can look at thousands of waist measurements of people in a region to decide what a clothing company should 
 standardize the 5, M, L and XL sizes of shirts to for that region.
 As I previously said, I do not personally have a lot of experience in this area and will refrain from giving any advice here. In 
 my knowledge, there are no established courses as of now for this domain. Although I would say that the mlcourse.ai
-
+
 website has it's ML course structured in a way that will end up teaching you a lot of what you're looking for (since data 
 exploration is a huge part of ML projects anyway).
 
-For people wanting to enter Reinforcement Learning:
-Again, I personally do not have much experience in RL, but some of my friends from the Meta Daisy club @ BITS Pilani ( 
-only club in BITS that's focused purely on RL, yet) were happy to share their insights on the topic. Reinforcement learning, 
+#### For people wanting to enter Reinforcement Learning:
+
+Again, I personally do not have much experience in RL, but some of my friends from the Meta Daisy club @ BITS Pilani (only club in BITS that's focused purely on RL, yet) were happy to share their insights on the topic. Reinforcement learning, 
 due to its highly mathematical nature, still doesn't have as many good resources on the internet as other established areas 
 like ML, CV and NLP. Also, the subject area has yet to prove itself significantly useful outside of carefully simulated 
 environments. That is to say, RL hasn't entered our daily lives yet. The recommended pathway to enter RL includes a lot of 
@@ -225,7 +227,7 @@ After you've got your basics covered, my friends at Meta Daisy suggest just one 
 
 
 
-What about books?
+## What about books?
 
 There are a lot of great books on the subject for those who prefer text based resources. There are some caveats though. 
 For example, books that promise to teach you machine learning using a certain library or framework (scikit-learn, PyTorch, 
@@ -251,13 +253,6 @@ Here are some of the book which I've heard a lot of good things about:
  3. Python Machine Learning (3e) : The author (Sebastian Raschka) has won several awards for this book including one 
    from ACM. It introduces you to ML using scikit-learn and moves on to using TensorFlow for deep learning. The book 
    has been getting regular updates since it's first release in 2016 and so it should stay relevant for quite a while.
-
+
 There are several books for CV, NLP and RL. But in my opinion it's best to go through the courses that I've mentioned above 
 for these areas when you're starting out. I'll refrain from recommending anything in this article that I myself wouldn't do.
-
-
-
-In the next article, I'll talk a lot about setting up your computer or server for ML or DL. It will mostly be a compilation from 
-different sources on the internet since a lot of people on the internet have already gone through the trouble of writing about 
-it.
-
