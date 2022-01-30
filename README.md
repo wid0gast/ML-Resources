@@ -1,17 +1,17 @@
 # ML-Resources
 
-## Important Links
+## Prerequisites
 
-### Python:
+### 1. Python:
 
-### Numpy:
-   1. [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-   2. 
+### 2. Numpy:
+   Introductory: [CS231n Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+   Comprehensive (Recommended): 
 
-### Pandas:
+### 3. Pandas:
 
-### Matplotlib:
+### 4. Matplotlib (Optional):
 
-### Seaborn:
+### 5. Seaborn (Optional):
 
-### Matrix Calculus Refresher
+### 6. Matrix Calculus Refresher:
